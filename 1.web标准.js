@@ -17,6 +17,31 @@
 
 CSS历史与发展
 {
+  CSS1
+  规范由Hakon Wium Lie和Bert Bos于1996年发表 它非常的短 它的内容少到用一个HTML页面就足以呈现了 即使用A4纸打印出来也只需要68页
 
+  CSS2
+  发表于1998年 它的定义更加严格了 囊括了很多功能 而且增加了两名编辑 Chris Lilley和Ian Jacobs 此时的规范暴增到480页
+
+  CSS3
+  在CSS2之后 工作组意识到这门语言已经变得非常庞大 再也无法把它塞进单个规范中了 这样不仅阅读和编辑及其困难 而且限制了CSS本身的快速发展 别忘了 一项规范如果要推进到最终阶段 其中的每项特性都必须具备两个独立的实现和全面的测试 原先的那种方式已经玩不转了 因此 CSS小组将CSS打散到多个不同的规范中 每个规范都可以拥有独立更新版本 这其中 那些延续CSS2.1已有特性的会升级到3这个版本号
+  CSS语法 http://w3.org/TR/css-syntax-3
+  CSS层叠与继承 css - cascade - 3
+  CSS颜色 css3 - color
+  选择符 selectors
+  CSS背景与边框 css3 - background
+  CSS值与单位 css - values - 3
+  CSS温饱呢排版 css - text - 3
+  CSS文本修饰效果 css - decor - 3
+  CSS字体 css3 - fonts
+  CSS基本UI特性 css3 - ui
+  CSS变形 css - transforms - 1
+  图像混合效果 compositing - 1
+  滤镜效果 filter - effects - 1
+  CSS遮罩 css - masking - 1
+  CSS伸缩盒布局 css - flexbox - 1
+  CSS网格布局 css - grid - 1
+  尽管CSS3这个名词非常流行 但它实际上并没有任何规范中定义过 绝大多数陈述这个词时指的是一个非正式的集合
+  由于CSS的各个模块在近些年里以不同的速度推进 我们已经很难以把这些规范以CSS3 CSS4这样的方式划分了 而且这样也很难以被大众理解和接受
 }
 
